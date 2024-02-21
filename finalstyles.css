@@ -1,0 +1,64 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fce4ec; /* Light pink background color */
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  background-color: #ff4081; /* Pink header background color */
+  color: #fff;
+  text-align: center;
+  padding: 20px 0;
+}
+
+h2, h1 {
+  margin: 0;
+  font-family: 'Cinzel', sans-serif; /* Use Cinzel for a cinematic feel */
+}
+
+h2 {
+  font-size: 2em; /* Adjust the font size for h2 */
+}
+
+h1 {
+  font-size: 3em; /* Adjust the font size for h1 */
+  font-weight: bold; /* Make the font bold for h1 */
+}
+
+main {
+  max-width: 800px;
+  margin: 20px auto;
+  padding: 20px;
+  background-color: #fff;
+  border-radius: 8px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  transition: transform 0.3s ease-in-out;
+}
+
+main:hover {
+  transform: scale(1.02);
+}
+
+#birthday-wishes {
+  line-height: 1.6;
+}
+
+#media-container {
+  margin-top: 20px;
+}
+
+video {
+  display: block;
+  width: 100%;
+  max-width: 100%;
+  height: auto;
+  margin-top: 15px;
+  border-radius: 8px;
+  box-shadow: 0 0 8px rgba(0, 0, 0, 0.2);
+  transition: box-shadow 0.3s ease-in-out;
+}
+
+video:hover {
+  box-shadow: 0 0 15px rgba(0, 0, 0, 0.3);
+}
