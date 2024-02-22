@@ -79,9 +79,10 @@ d.innerHTML = "Click the Light Bulb.",
       setTimeout(() => {
         u[0].classList.add("appear");
         u[0].style.opacity = "1";
-      }, 1500);
+      }, 2500);
       
 
+      
        setTimeout(() => {
        window.location.href = "https://jaycamp12.github.io/shanti1/final.html";
       }, 350);
