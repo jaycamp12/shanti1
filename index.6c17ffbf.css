@@ -297,15 +297,15 @@ body {
 }
 
 .switch {
-  background-image: url("/bulb.41497508.svg");
+  background-image: url("https://jaycamp12.github.io/bulb.41497508.svg");
 }
 
 .gift {
-  background-image: url('/Img/gift.png');
+  background-image: url('https://jaycamp12.github.io/Img/gift.png');
 }
 
 .door-in, .door-out {
-  background-image: url("/Img/door.png");
+  background-image: url("https://jaycamp12.github.io/Img/door.png");
 }
 
 .darkroom, .flash, .giftroom, .empty-room, .hallway {
