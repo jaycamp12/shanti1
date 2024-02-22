@@ -83,7 +83,7 @@ d.innerHTML = "Click the Light Bulb.",
       
 
        setTimeout(() => {
-       window.location.href = "/final.html";
+       window.location.href = "https://jaycamp12.github.io/shanti1/final.html";
       }, 350);
       q.loop = true;
       q.play();
