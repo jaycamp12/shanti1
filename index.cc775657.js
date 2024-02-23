@@ -79,7 +79,7 @@ d.innerHTML = "Click the Light Bulb.",
       setTimeout(() => {
         u[0].classList.add("appear");
         u[0].style.opacity = "1";
-      }, 2500);
+      }, 8000);
       
 
       
